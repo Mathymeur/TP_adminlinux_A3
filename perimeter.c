@@ -9,6 +9,6 @@ float perimeter_rect(float height, float width) {
 #include <math.h>
 
 float perimeter_circle(float radius) {
-    return 4 * M_PI * radius;
+    return 2 * M_PI * radius;
 }
 
